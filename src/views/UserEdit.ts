@@ -18,7 +18,7 @@ export class UserEdit extends View<User, UserProps> {
     return `
     <div>
       <div class ="user-show"></div>
-      <div class ="user-form"></div>
+      <div class ="user-form"></div>s
     </div>
     `;
   }
